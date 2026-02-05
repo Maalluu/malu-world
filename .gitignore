@@ -1,0 +1,5 @@
+gitadd+malu-world.js
+gitcommit-m"ei, isso é um teste!"
+gitbranch-M maluworld
+gitremoteaddorigin"https://github.com/Maalluu/malu-world.git"
+gitpush-uorigin malu-world
